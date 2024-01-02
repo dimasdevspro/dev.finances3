@@ -276,6 +276,7 @@ footer {
     color: var(--dark-blue);
     opacity: .6;
     position: relative;
+    z-index: -1;
 }
 
 @media (min-width: 800px) {
